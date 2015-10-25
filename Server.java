@@ -1,5 +1,19 @@
 package socket;
 
+/*
+ * This program for:
+ * Java Socket Programming 
+ * Server Side Messagging
+*/
+/*
+ * author : Azhari Hj Salleh
+ * matrix no : 201461166
+ * email : azhari.salleh@gmail.com
+ * github acct : https://github.com/azharisalleh
+ * 
+ */
+
+
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;
 import java.io.IOException;
